@@ -1,4 +1,4 @@
-#ElasticSIEMConfiguration
+# ElasticSIEMConfiguration
 
 <h2>Description</h2>
 This is a Lab environment where we configured an Elastic SIEM and pushed telemetry traffic and security events from a Kali linux Virtual Machine which serves as an elastic agent. We gp through the process of configuring a SIEM, a visualization within the SIEM and also simulating a security alert on this SIEM.
